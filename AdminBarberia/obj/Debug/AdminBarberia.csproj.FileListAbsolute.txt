@@ -1,0 +1,81 @@
+C:\Users\JLeguizamon\Documents\Proyectos del Visual 2022\AdminBarberia\AdminBarberia\bin\Debug\AdminBarberia.exe.config
+C:\Users\JLeguizamon\Documents\Proyectos del Visual 2022\AdminBarberia\AdminBarberia\bin\Debug\AdminBarberia.exe
+C:\Users\JLeguizamon\Documents\Proyectos del Visual 2022\AdminBarberia\AdminBarberia\bin\Debug\AdminBarberia.pdb
+C:\Users\JLeguizamon\Documents\Proyectos del Visual 2022\AdminBarberia\AdminBarberia\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\JLeguizamon\Documents\Proyectos del Visual 2022\AdminBarberia\AdminBarberia\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\JLeguizamon\Documents\Proyectos del Visual 2022\AdminBarberia\AdminBarberia\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\JLeguizamon\Documents\Proyectos del Visual 2022\AdminBarberia\AdminBarberia\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\JLeguizamon\Documents\Proyectos del Visual 2022\AdminBarberia\AdminBarberia\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\JLeguizamon\Documents\Proyectos del Visual 2022\AdminBarberia\AdminBarberia\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\JLeguizamon\Documents\Proyectos del Visual 2022\AdminBarberia\AdminBarberia\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\JLeguizamon\Documents\Proyectos del Visual 2022\AdminBarberia\AdminBarberia\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\JLeguizamon\Documents\Proyectos del Visual 2022\AdminBarberia\AdminBarberia\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\JLeguizamon\Documents\Proyectos del Visual 2022\AdminBarberia\AdminBarberia\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\JLeguizamon\Documents\Proyectos del Visual 2022\AdminBarberia\AdminBarberia\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\JLeguizamon\Documents\Proyectos del Visual 2022\AdminBarberia\AdminBarberia\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\JLeguizamon\Documents\Proyectos del Visual 2022\AdminBarberia\AdminBarberia\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\JLeguizamon\Documents\Proyectos del Visual 2022\AdminBarberia\AdminBarberia\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\JLeguizamon\Documents\Proyectos del Visual 2022\AdminBarberia\AdminBarberia\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\JLeguizamon\Documents\Proyectos del Visual 2022\AdminBarberia\AdminBarberia\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\JLeguizamon\Documents\Proyectos del Visual 2022\AdminBarberia\AdminBarberia\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\JLeguizamon\Documents\Proyectos del Visual 2022\AdminBarberia\AdminBarberia\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\JLeguizamon\Documents\Proyectos del Visual 2022\AdminBarberia\AdminBarberia\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\JLeguizamon\Documents\Proyectos del Visual 2022\AdminBarberia\AdminBarberia\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\JLeguizamon\Documents\Proyectos del Visual 2022\AdminBarberia\AdminBarberia\obj\Debug\AdminBarberia.csproj.AssemblyReference.cache
+C:\Users\JLeguizamon\Documents\Proyectos del Visual 2022\AdminBarberia\AdminBarberia\obj\Debug\AdminBarberia.csproj.SuggestedBindingRedirects.cache
+C:\Users\JLeguizamon\Documents\Proyectos del Visual 2022\AdminBarberia\AdminBarberia\obj\Debug\AdminBarberia.Home.resources
+C:\Users\JLeguizamon\Documents\Proyectos del Visual 2022\AdminBarberia\AdminBarberia\obj\Debug\AdminBarberia.Properties.Resources.resources
+C:\Users\JLeguizamon\Documents\Proyectos del Visual 2022\AdminBarberia\AdminBarberia\obj\Debug\AdminBarberia.Views.Alert.FrmAlertBox.resources
+C:\Users\JLeguizamon\Documents\Proyectos del Visual 2022\AdminBarberia\AdminBarberia\obj\Debug\AdminBarberia.Views.Empleados.frmEmpleados.resources
+C:\Users\JLeguizamon\Documents\Proyectos del Visual 2022\AdminBarberia\AdminBarberia\obj\Debug\AdminBarberia.Views.Empleados.frmNewEmpleados.resources
+C:\Users\JLeguizamon\Documents\Proyectos del Visual 2022\AdminBarberia\AdminBarberia\obj\Debug\AdminBarberia.Views.Turnos.ConterDaysControls.resources
+C:\Users\JLeguizamon\Documents\Proyectos del Visual 2022\AdminBarberia\AdminBarberia\obj\Debug\AdminBarberia.Views.Turnos.DaysControl.resources
+C:\Users\JLeguizamon\Documents\Proyectos del Visual 2022\AdminBarberia\AdminBarberia\obj\Debug\AdminBarberia.Views.Turnos.frmEventTurno.resources
+C:\Users\JLeguizamon\Documents\Proyectos del Visual 2022\AdminBarberia\AdminBarberia\obj\Debug\AdminBarberia.Views.Turnos.frmTurnos.resources
+C:\Users\JLeguizamon\Documents\Proyectos del Visual 2022\AdminBarberia\AdminBarberia\obj\Debug\AdminBarberia.csproj.GenerateResource.cache
+C:\Users\JLeguizamon\Documents\Proyectos del Visual 2022\AdminBarberia\AdminBarberia\obj\Debug\AdminBarberia.csproj.CoreCompileInputs.cache
+C:\Users\JLeguizamon\Documents\Proyectos del Visual 2022\AdminBarberia\AdminBarberia\obj\Debug\AdminBarberia.csproj.CopyComplete
+C:\Users\JLeguizamon\Documents\Proyectos del Visual 2022\AdminBarberia\AdminBarberia\obj\Debug\AdminBarberia.exe
+C:\Users\JLeguizamon\Documents\Proyectos del Visual 2022\AdminBarberia\AdminBarberia\obj\Debug\AdminBarberia.pdb
+C:\Users\JLeguizamon\Documents\Proyectos del Visual 2022\AdminBarberia\AdminBarberia\bin\Debug\GMap.NET.Core.dll
+C:\Users\JLeguizamon\Documents\Proyectos del Visual 2022\AdminBarberia\AdminBarberia\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\JLeguizamon\Documents\Proyectos del Visual 2022\AdminBarberia\AdminBarberia\obj\Debug\AdminBarberia.Views.Locales.FrmLocales.resources
+C:\Users\JLeguizamon\Documents\Proyectos del Visual 2022\AdminBarberia\AdminBarberia\obj\Debug\AdminBarberia.Views.Lupa.frmLupa.resources
+C:\Users\JLeguizamon\Documents\Proyectos del Visual 2022\AdminBarberia\AdminBarberia\obj\Debug\AdminBarberia.Login.resources
+C:\Users\JLeguizamon\Documents\Proyectos del Visual 2022\AdminBarberia\AdminBarberia\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\JLeguizamon\Documents\Proyectos del Visual 2022\AdminBarberia\AdminBarberia\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Jose Leguizamon\Desktop\AdminBarberia\AdminBarberia\bin\Debug\AdminBarberia.exe.config
+C:\Users\Jose Leguizamon\Desktop\AdminBarberia\AdminBarberia\bin\Debug\AdminBarberia.exe
+C:\Users\Jose Leguizamon\Desktop\AdminBarberia\AdminBarberia\bin\Debug\AdminBarberia.pdb
+C:\Users\Jose Leguizamon\Desktop\AdminBarberia\AdminBarberia\bin\Debug\GMap.NET.Core.dll
+C:\Users\Jose Leguizamon\Desktop\AdminBarberia\AdminBarberia\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Jose Leguizamon\Desktop\AdminBarberia\AdminBarberia\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Jose Leguizamon\Desktop\AdminBarberia\AdminBarberia\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Jose Leguizamon\Desktop\AdminBarberia\AdminBarberia\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Jose Leguizamon\Desktop\AdminBarberia\AdminBarberia\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Jose Leguizamon\Desktop\AdminBarberia\AdminBarberia\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Jose Leguizamon\Desktop\AdminBarberia\AdminBarberia\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Jose Leguizamon\Desktop\AdminBarberia\AdminBarberia\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Jose Leguizamon\Desktop\AdminBarberia\AdminBarberia\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Jose Leguizamon\Desktop\AdminBarberia\AdminBarberia\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Jose Leguizamon\Desktop\AdminBarberia\AdminBarberia\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\Jose Leguizamon\Desktop\AdminBarberia\AdminBarberia\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Jose Leguizamon\Desktop\AdminBarberia\AdminBarberia\obj\Debug\AdminBarberia.csproj.AssemblyReference.cache
+C:\Users\Jose Leguizamon\Desktop\AdminBarberia\AdminBarberia\obj\Debug\AdminBarberia.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jose Leguizamon\Desktop\AdminBarberia\AdminBarberia\obj\Debug\AdminBarberia.Home.resources
+C:\Users\Jose Leguizamon\Desktop\AdminBarberia\AdminBarberia\obj\Debug\AdminBarberia.Login.resources
+C:\Users\Jose Leguizamon\Desktop\AdminBarberia\AdminBarberia\obj\Debug\AdminBarberia.Properties.Resources.resources
+C:\Users\Jose Leguizamon\Desktop\AdminBarberia\AdminBarberia\obj\Debug\AdminBarberia.Views.Alert.FrmAlertBox.resources
+C:\Users\Jose Leguizamon\Desktop\AdminBarberia\AdminBarberia\obj\Debug\AdminBarberia.Views.Empleados.frmEmpleados.resources
+C:\Users\Jose Leguizamon\Desktop\AdminBarberia\AdminBarberia\obj\Debug\AdminBarberia.Views.Empleados.frmNewEmpleados.resources
+C:\Users\Jose Leguizamon\Desktop\AdminBarberia\AdminBarberia\obj\Debug\AdminBarberia.Views.Locales.FrmLocales.resources
+C:\Users\Jose Leguizamon\Desktop\AdminBarberia\AdminBarberia\obj\Debug\AdminBarberia.Views.Lupa.frmLupa.resources
+C:\Users\Jose Leguizamon\Desktop\AdminBarberia\AdminBarberia\obj\Debug\AdminBarberia.Views.Turnos.ConterDaysControls.resources
+C:\Users\Jose Leguizamon\Desktop\AdminBarberia\AdminBarberia\obj\Debug\AdminBarberia.Views.Turnos.DaysControl.resources
+C:\Users\Jose Leguizamon\Desktop\AdminBarberia\AdminBarberia\obj\Debug\AdminBarberia.Views.Turnos.frmEventTurno.resources
+C:\Users\Jose Leguizamon\Desktop\AdminBarberia\AdminBarberia\obj\Debug\AdminBarberia.Views.Turnos.frmTurnos.resources
+C:\Users\Jose Leguizamon\Desktop\AdminBarberia\AdminBarberia\obj\Debug\AdminBarberia.csproj.GenerateResource.cache
+C:\Users\Jose Leguizamon\Desktop\AdminBarberia\AdminBarberia\obj\Debug\AdminBarberia.csproj.CoreCompileInputs.cache
+C:\Users\Jose Leguizamon\Desktop\AdminBarberia\AdminBarberia\obj\Debug\AdminBarberia.csproj.CopyComplete
+C:\Users\Jose Leguizamon\Desktop\AdminBarberia\AdminBarberia\obj\Debug\AdminBarberia.exe
+C:\Users\Jose Leguizamon\Desktop\AdminBarberia\AdminBarberia\obj\Debug\AdminBarberia.pdb
